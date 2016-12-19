@@ -1,8 +1,8 @@
-# RubyTestApp 
+# RubyTestApp
 
-RubyOnRails testinė web aplikacija
+RubyOnRails web app for testing purposes
 
-## Paleidimas
+## Launch
 
 * `gem install rails`
 * `rails server`
